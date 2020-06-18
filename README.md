@@ -1,1 +1,1 @@
-# finans_bootstrap
+![Finans home](./img/finans.png)
